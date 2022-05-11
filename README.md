@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WallPasq
 - 👀 I’m interested in Data Science and Digital Marketing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects involving Digital Marketing metrics and Data Science
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on projects involving Customer Experience and Data Analysis
 - 📫 Reach out to me by emailing wallacypasqualini@gmail.com, or by adding me on LinkedIn: http://www.linkedin.com/in/wallacypasqualini
 
 <!---
